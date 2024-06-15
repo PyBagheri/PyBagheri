@@ -1,4 +1,4 @@
-### Check out [Codefights](codefights.b32.ir)!
+### ⚡ Check out [Codefights](codefights.b32.ir)!
 
 I'm mainly focused on Python/Django programming.
 
