@@ -1,4 +1,7 @@
-### Hi there 👋
+### Check out [Codefights](codefights.b32.ir)!
+
+I'm mainly focused on Python/Django programming.
+
 
 <!--
 **PyBagheri/PyBagheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
